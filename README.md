@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Amleth
-- 👀 I’m interested in modular synthesis, 
-- 🌱 I’m currently learning ~gen for Max
-- 💞️ I’m looking to collaborate on digital humanities (digital musicology/history) research projects
-- 📫 How to reach me thomas.bottini🍄cnrs.fr
+- 👀 I’m interested in modular synthesis, algorithmic composition, 80s/90s synths & romplers.
+- 🌱 I’m currently learning ~gen for Max and cooking arabic food.
+- 💞️ I’m looking to collaborate on digital humanities/digital musicology research projects.
+- 📫 How to reach me thomas.bottini🍄cnrs.fr.
 
 <!---
 Amleth/Amleth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
