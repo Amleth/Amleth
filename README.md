@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amleth
 - 👀 I’m interested in modular synthesis, algorithmic composition, 80s/90s synths & romplers.
-- 🌱 I’m currently learning ~gen for Max and cooking arabic food.
+- 🌱 I’m currently writing my own sequencing text language and cooking arabic food.
 - 💞️ I’m looking to collaborate on digital humanities/digital musicology research projects.
 - 📫 How to reach me thomas.bottini🍄cnrs.fr.
 
